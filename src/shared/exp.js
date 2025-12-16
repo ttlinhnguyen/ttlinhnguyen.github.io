@@ -21,8 +21,15 @@ const UOA = {
 // Experience
 export const EXP = [ 
     {
-        "startDate": "2024-07-29",
+        "startDate": "2025-10-01",
         "endDate": moment().format("YYYY-MM-DD"),
+        "company": CHRYSOS,
+        "position": "Software Engineer",
+        "description": "",
+    },
+    {
+        "startDate": "2024-07-29",
+        "endDate": "2025-10-01",
         "company": CHRYSOS,
         "position": "Associate Software Engineer",
         "description": "",
